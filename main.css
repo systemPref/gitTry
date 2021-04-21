@@ -1,0 +1,12 @@
+.card {
+  visibility: hidden;
+}
+.cards {
+  visibility: visible;
+}
+.img {
+  border-radius: 10px;
+}
+.item {
+  color: red;
+}
